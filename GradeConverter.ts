@@ -15,7 +15,7 @@ for (let num: number = 55; num<=100; num+=5) {
        fakeprint("Number Grade: "+num +"\n"
        +"Letter grade: "+lg)
     }
-
+        
        function fakeprint(statement: string){
            console.log(statement);
        }
